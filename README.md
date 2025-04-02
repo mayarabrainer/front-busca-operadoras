@@ -42,7 +42,7 @@ A estrutura do projeto está organizada da seguinte forma:
     ```bash
     cd front-busca-operadoras
     ```
-3. Intalar dependÇencias:
+3. Instalar dependencias:
     ```bash
     npm install
     ```
