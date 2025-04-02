@@ -79,7 +79,6 @@ const voltarPagina = () => {
         </button>
       </div>
 
-      <!-- Indicador de carregamento -->
       <div v-if="carregando" class="loading">
         Buscando operadoras...
       </div>
