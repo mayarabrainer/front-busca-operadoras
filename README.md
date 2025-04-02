@@ -13,8 +13,9 @@ O frontend foi desenvolvido utilizando Vue.js, proporcionando uma interface din�
 
 ---
 
-![Frontend Vue.js](../public/img/tela-busca.png)
-![Frontend Vue.js](../public/img/tela-operadora.png)
+![Frontend Vue.js](./public/img/tela-operadora.png)
+
+**Acesse a Aplicação:** https://front-busca-operadoras-rpvf.vercel.app/
 
 ---
 
