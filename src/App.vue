@@ -1,7 +1,7 @@
 <script setup>
-import BuscarOperadora from "./components/BuscarOperadora.vue";
+import SearchOperators from "./components/SearchOperators.vue";
 </script>
 
 <template>
-  <BuscarOperadora />
+  <SearchOperators />
 </template>

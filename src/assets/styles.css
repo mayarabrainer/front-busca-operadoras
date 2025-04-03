@@ -84,7 +84,7 @@
   width: 100%;
 }
 
-.operadora-item {
+.operator-item {
   padding: 1.25rem;
   margin-bottom: 1.5rem;
   background-color: #d9d9d9;
@@ -92,14 +92,14 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
-.operadora-item h2 {
+.operator-item h2 {
   font-size: 1.25rem;
   color: #1f2937;
   font-weight: 600;
   margin-bottom: 0.75rem;
 }
 
-.operadora-item p {
+.operator-item p {
   font-size: 1rem;
   color: #4b5563;
   line-height: 1.5;
@@ -146,7 +146,6 @@
   font-weight: bold;
 }
 
-
 @media (max-width: 600px) {
   .search-container {
     padding: 1.5rem;
@@ -161,10 +160,10 @@
   .button-search {
     width: 100%;
   }
-  .operadora-item h2 {
+  .operator-item h2 {
     font-size: 1.1rem;
   }
-  .operadora-item p {
+  .operator-item p {
     font-size: 0.9rem;
   }
 }
